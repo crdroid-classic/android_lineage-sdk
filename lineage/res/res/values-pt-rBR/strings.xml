@@ -80,7 +80,6 @@ limitations under the License.
     <string name="trust_notification_title_security">Confiar na \u2022 segurança do Sistema</string>
     <string name="trust_notification_content_selinux">O SELinux não está sendo aplicado, sua segurança foi enfraquecida.</string>
     <string name="trust_notification_content_keys">Esta compilação foi assinada com chaves públicas</string>
-    <string name="trust_notification_title_onboarding">Desvendar o Agente de Confiança</string>
     <string name="trust_notification_title_onboarding">Descubra o Agente de Confiança</string>
     <string name="trust_notification_action_manage">Gerenciar alertas</string>
     <string name="charging_control_notification_channel">Controle de carregamento</string>
